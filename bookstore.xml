@@ -1,0 +1,49 @@
+#regno_321433225
+#sno_s92073225
+
+#Q1 – 321433225 – s92073225#
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Books>
+
+	<Book>
+		<BookID>001</BookID>
+		<Title>Harry Potter and the Sorcerer's Stone.</Title>
+		<Author>J K Rowling</Author>
+		<Genre>Fantacy</Genre>
+		<PublicationYear>1997</PublicationYear>
+	</Book>
+	
+	<Book>
+		<BookID>002</BookID>
+		<Title>Harry Potter and the Chamber of Secrets.</Title>
+		<Author>J K Rowling</Author>
+		<Genre>Fantacy</Genre>
+		<PublicationYear>1998</PublicationYear>
+	</Book>
+	
+	<Book>
+		<BookID>003</BookID>
+		<Title>Harry Potter and the Prisoner of Azkaban.</Title>
+		<Author>J K Rowling</Author>
+		<Genre>Fantacy</Genre>
+		<PublicationYear>1999</PublicationYear>
+	</Book>
+	
+	<Book>
+		<BookID>004</BookID>
+		<Title>Harry Potter and the Goblet of Fire.</Title>
+		<Author>J K Rowling</Author>
+		<Genre>Fantacy</Genre>
+		<PublicationYear>2000</PublicationYear>
+	</Book>
+	<Book>
+		<BookID>005</BookID>
+		<Title>Harry Potter and the Order of the Phoenix.</Title>
+		<Author>J K Rowling</Author>
+		<Genre>Fantacy</Genre>
+		<PublicationYear>2003</PublicationYear>
+	</Book>
+	
+</Books>

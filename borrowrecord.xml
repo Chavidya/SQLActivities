@@ -1,0 +1,50 @@
+#regno_321433225
+#sno_s92073225
+
+#Q1 – 321433225 – s92073225#
+<?xml version="1.0"?>
+
+<BorrowRecords>
+
+	<BorrowRecord>
+		<BorrowID>111</BorrowID>
+		<BookID>001</BookID>
+		<BorrowDate>2024-10-21</BorrowDate>
+		<ReturnDate>2024-11-06</ReturnDate>
+		<MemberID>3316</MemberID>
+	</BorrowRecord>
+	
+	<BorrowRecord>
+		<BorrowID>112</BorrowID>
+		<BookID>002</BookID>
+		<BorrowDate>2024-10-24</BorrowDate>
+		<ReturnDate>2024-11-08</ReturnDate>
+		<MemberID>3317</MemberID>
+	</BorrowRecord>
+	
+	<BorrowRecord>
+		<BorrowID>113</BorrowID>
+		<BookID>003</BookID>
+		<BorrowDate>2024-10-26</BorrowDate>
+		<ReturnDate>2024-11-10</ReturnDate>
+		<MemberID>3318</MemberID>
+	</BorrowRecord>
+	
+	<BorrowRecord>
+		<BorrowID>114</BorrowID>
+		<BookID>004</BookID>
+		<BorrowDate>2024-10-28</BorrowDate>
+		<ReturnDate>2024-11-12</ReturnDate>
+		<MemberID>3319</MemberID>
+	</BorrowRecord>
+	
+	<BorrowRecord>
+		<BorrowID>115</BorrowID>
+		<BookID>005</BookID>
+		<BorrowDate>2024-10-30</BorrowDate>
+		<ReturnDate>2024-11-14</ReturnDate>
+		<MemberID>3320</MemberID>
+	</BorrowRecord>
+	
+</BorrowRecords>
+
